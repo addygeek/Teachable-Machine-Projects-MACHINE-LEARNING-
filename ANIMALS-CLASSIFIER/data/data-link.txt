@@ -1,0 +1,3 @@
+Note to train the Model:-
+I have used Kaggle Animal dataset to train the data set
+Source Link :- https://www.kaggle.com/datasets/alessiocorrado99/animals10
